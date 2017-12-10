@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calcule Fácil</string>
+    <string name="valor1">0.00</string>
+    <string name="valor2">0.00</string>
+    <string name="resultado">Resultado</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="txt_sel">Selecione o Método de Cálculo:</string>
+    <string-array name="sel_calc">
+        <item>Selecione</item>
+        <item>Somar</item>
+        <item>Subtrair</item>
+        <item>Dividir</item>
+        <item>Multiplicar</item>
+    </string-array>
+
+</resources>
