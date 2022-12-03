@@ -47,3 +47,6 @@ concebi diversas iniciativas, mas o trabalho mais expressivo neste ano foi a fun
 
 Início na startup Pulsus, onde pude contribuir em marcas expessivas, como o reconhecimento Global em Android pela Google, 
 onde apenas 10 empresas no mundo fazem parte dessa listagem.
+
+## Sobre este projeto no repositório
+Pode ignorar ele 💁‍♂️, este projeto é aquele que "todo mundo faz" da calculadora quando está aprendendo.
