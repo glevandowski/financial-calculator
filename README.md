@@ -6,12 +6,12 @@ Nada mais justo contar um pouco sobre minha jornada.
 Resumo dos anos:
 
 - ### 2012
-Em 2012, com 14 anos de idade tive primeiro computador, foi comprado em 24x no cartão de crédito pela minha mãe, 
+Em 2012, com 14 anos de idade tive primeiro computador, foi comprado em 24x no crédito pela minha mãe; 
 após longos dias de insistências e muitas dificuldades financeiras. 
 
-Época que ter acesso internet em casa era artigo de luxo. 
+Época que ter acesso a internet em casa era artigo de luxo. 
 
-Época que por curiosidade acabava por baixar softwares mal intencionados nas famosas lan houses, 
+Época que por curiosidade, acabava por baixar softwares mal intencionados nas famosas lan houses, 
 estes transferia para o meu computador pessoal e como resultado recebia visitas do rapaz da assistência técnica 🏃🏻
 
 Época que quebrava muitos aparelhos e que já tinha amigos nas assistências técnicas, onde passava maior tempo.
