@@ -49,4 +49,4 @@ Início na startup Pulsus, onde pude contribuir em marcas expessivas, como o rec
 onde apenas 10 empresas no mundo fazem parte dessa listagem.
 
 ## Sobre este projeto no repositório
-Pode ignorar ele 💁‍♂️, este projeto é aquele que "todo mundo faz" da calculadora quando está aprendendo.
+Pode ignorar ele 💁‍♂️, este projeto é aquele que "todo mundo faz" da calculadora quando está em fase de aprendizagem.
