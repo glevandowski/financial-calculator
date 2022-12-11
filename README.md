@@ -20,7 +20,7 @@ estes transferia para o meu computador pessoal e como resultado recebia visitas 
 
 - ### 2013
 Época que por tantas incomodações, minha mãe foi obrigada a pagar um curso de montagem e manutenção de computadores, 
-a partir daí virei o rapaz da assistência do meu bairro, arrumando computadores, impressoras e aventuras por tablets/smartphones.
+a partir daí, virei o rapaz da assistência do meu bairro, arrumando computadores, impressoras e aventuras por tablets/smartphones.
 
 - ### 2014/2015/2016
 A iniciativa da assistência técnica não era promissora e acabei tendo que iniciar estágio como vendedor em uma loja de roupas.
